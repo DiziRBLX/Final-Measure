@@ -6,7 +6,7 @@
 
 | Page | Description |
 | --- | --- |
-| [Development Board](https://github.com/users/DiziRBLX/projects/1/views/1) | Current tasks, bugs, recommendations, and development progress |
+| [Development Board](https://github.com/users/DiziRBLX/projects/1/views/1) | Current tasks and development progress |
 | [Controls](CONTROLS.md) | Current player controls |
 
 ## Development Status
