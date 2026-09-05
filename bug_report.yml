@@ -1,0 +1,91 @@
+name: Bug Report
+description: Report something that is broken or not working as intended.
+title: "[BUG] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug in Final Measure.
+
+        Please include as much detail as possible so the issue can be reproduced.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the bug and what went wrong.
+      placeholder: Tell us what happened...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      description: Describe what you expected instead.
+      placeholder: I expected...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the steps that cause the bug.
+      placeholder: |
+        1. Join the game
+        2. Equip...
+        3. Press...
+        4. The bug happens
+    validations:
+      required: true
+
+  - type: dropdown
+    id: system
+    attributes:
+      label: What system is affected?
+      options:
+        - Combat
+        - Movement
+        - Abilities
+        - Progression
+        - Inventory / Items
+        - Weapons
+        - Armor
+        - Character / Saving
+        - UI
+        - NPC / AI
+        - Bosses
+        - World / Exploration
+        - Quests
+        - Audio / VFX
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: How serious is the bug?
+      options:
+        - Minor - Mostly visual or inconvenient
+        - Medium - Affects gameplay
+        - Major - Prevents a system from working
+        - Critical - Data loss, game-breaking, or severe exploit
+    validations:
+      required: true
+
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots / Video
+      description: Add screenshots, clips, or other evidence if available.
+      placeholder: Drag images here or paste links...
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional information
+      description: Add anything else that may help.
