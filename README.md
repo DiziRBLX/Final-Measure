@@ -2,18 +2,18 @@
 
 **Final Measure** is an in-development open-world Roblox RPG focused on combat, exploration, progression, abilities, equipment, and permadeath.
 
-## Development Status
-
-Final Measure is still in **early development**.
-
-Many systems are being built and tested, and most mechanics, balance values, UI, and game content are **not final**.
-
 ## Quick Links
 
 | Page | Description |
 | --- | --- |
 | [Development Board](https://github.com/users/DiziRBLX/projects/1/views/1) | Current tasks, bugs, recommendations, and development progress |
 | [Controls](CONTROLS.md) | Current player controls |
+
+## Development Status
+
+Final Measure is still in **early development**.
+
+Many systems are being built and tested, and most mechanics, balance values, UI, and game content are **not final**.
 
 ## Current Focus
 
