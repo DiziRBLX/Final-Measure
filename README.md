@@ -6,8 +6,10 @@
 
 | Page | Description |
 | --- | --- |
-| [Development Board](https://github.com/users/DiziRBLX/projects/1/views/1) | Current tasks and development progress |
+| [Development Board](https://github.com/users/DiziRBLX/projects/1/views/1) | Current development progress |
 | [Controls](CONTROLS.md) | Current player controls |
+| [Report a Bug](https://github.com/DiziRBLX/Final-Measure/issues/new?template=bug_report.yml) | Report something that is not working correctly |
+| [Give Feedback](https://github.com/DiziRBLX/Final-Measure/issues/new?template=feedback.yml) | Submit suggestions, recommendations, balance ideas, or general feedback |
 
 ## Development Status
 
